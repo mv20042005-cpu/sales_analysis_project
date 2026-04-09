@@ -1,0 +1,8 @@
+SALES ANALYSIS SUMMARY
+======================
+Total Sales: ₹217,000.00
+Total Profit: ₹33,890.00
+Total Orders: 30
+Average Sales per Order: ₹7,233.33
+Best Performing Category: Electronics
+Best Performing Month: 2025-03

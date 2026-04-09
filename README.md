@@ -132,6 +132,6 @@ BCA Student | Aspiring Data Analyst
 ---
 
 ## 🔗 Connect with Me
-LinkedIn: [View Profile](https://www.linkedin.com/in/meenal-verma)
+LinkedIn: [View Profile](https://www.linkedin.com/in/meenal-verma-02761a268)
 GitHub: [View Profile](https://https://github.com/mv20042005-cpu)
 
